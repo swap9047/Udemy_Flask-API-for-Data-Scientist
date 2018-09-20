@@ -1,0 +1,5 @@
+id,text
+1,"This is me"
+2,"He is bad"
+3,"Rihand is good"
+4,"You are nice but evil however good"  

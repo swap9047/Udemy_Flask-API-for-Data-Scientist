@@ -1,0 +1,7 @@
+sudo docker build -t rf-api .
+sudo docker ps
+sudo docker images
+sudo docker run -d -p 8000:8000 textcluster-api
+sudo docker exec -it 10a2a953e29b bash
+cd /etc/mod_wsgi-express-80/
+    
